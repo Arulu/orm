@@ -1,0 +1,10 @@
+{
+	"name":"arulu/orm",
+	"description":"Database ORM based on Idiorm",
+	"autoload":{
+		"psr-0":{
+			"Arulu\\ORM": "src/"
+		}
+	},
+	"target-dir": "Arulu/ORM"
+}
